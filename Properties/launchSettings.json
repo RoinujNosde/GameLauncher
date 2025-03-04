@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GameLauncher": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

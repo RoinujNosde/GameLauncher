@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameLauncher", "GameLauncher.csproj", "{DBF20EC5-03A4-4002-856F-DDA92E9C151A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessWatcher", "ProcessWatcher\ProcessWatcher.csproj", "{FFFC395E-93CB-43C1-A786-53E9BCB9A31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF20EC5-03A4-4002-856F-DDA92E9C151A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF20EC5-03A4-4002-856F-DDA92E9C151A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF20EC5-03A4-4002-856F-DDA92E9C151A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF20EC5-03A4-4002-856F-DDA92E9C151A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFC395E-93CB-43C1-A786-53E9BCB9A31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFC395E-93CB-43C1-A786-53E9BCB9A31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFC395E-93CB-43C1-A786-53E9BCB9A31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFC395E-93CB-43C1-A786-53E9BCB9A31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B89BFB-5C7D-40AB-90C9-D7FE4858F93C}
+	EndGlobalSection
+EndGlobal
